@@ -1,7 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
 <h1 align="center">Hi 👋, I'm Mouhamed Ridha Harhira</h1>
 <h3 align="center">A passionate full-stack JS web developer from Tunisia</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=med-ri" alt="med-ri" /></a> </p>
 
 - 💬 Ask me about **Mern Stack**
